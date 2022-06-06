@@ -1,4 +1,3 @@
-# config fiile for my profile
 👋 Hi, I’m @Rakesh
 👀 I’m interested in programming
 🌱 I’m currently learning bachelor's of computer application
